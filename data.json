@@ -6,7 +6,7 @@
       "income": {
         "ote": 21183,
         "endorsement": 0,
-        "additional": 0,
+        "additional": 222,
         "vesperRidge": 0
       },
       "expenses": {
@@ -25,7 +25,7 @@
       "income": {
         "ote": 21187,
         "endorsement": 0,
-        "additional": 0,
+        "additional": 111,
         "vesperRidge": 0
       },
       "expenses": {
@@ -44,7 +44,7 @@
       "income": {
         "ote": 21190,
         "endorsement": 0,
-        "additional": 0,
+        "additional": 111,
         "vesperRidge": 0
       },
       "expenses": {
@@ -63,7 +63,7 @@
       "income": {
         "ote": 20965,
         "endorsement": 0,
-        "additional": 0,
+        "additional": 111,
         "vesperRidge": 0
       },
       "expenses": {
@@ -82,7 +82,7 @@
       "income": {
         "ote": 21455,
         "endorsement": 0,
-        "additional": 0,
+        "additional": 111,
         "vesperRidge": 0
       },
       "expenses": {
@@ -159,5 +159,5 @@
       "investments": 1233509.35
     }
   ],
-  "lastImport": "Mar 5 at 10:33 AM"
+  "lastImport": "Mar 5 at 4:17 PM"
 }
