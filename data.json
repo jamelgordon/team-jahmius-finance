@@ -1,0 +1,163 @@
+{
+  "monthly": [
+    {
+      "month": "February 2026",
+      "monthShort": "Feb",
+      "income": {
+        "ote": 21183,
+        "endorsement": 0,
+        "additional": 0,
+        "vesperRidge": 0
+      },
+      "expenses": {
+        "reimbursement": 0,
+        "loanRepayment": 222,
+        "creditCard": 16291.3,
+        "other": 1100,
+        "taxes": 0,
+        "personal1": 2715.89,
+        "personal2": 105.6
+      }
+    },
+    {
+      "month": "January 2026",
+      "monthShort": "Jan",
+      "income": {
+        "ote": 21187,
+        "endorsement": 0,
+        "additional": 0,
+        "vesperRidge": 0
+      },
+      "expenses": {
+        "reimbursement": 0,
+        "loanRepayment": 0,
+        "creditCard": 0,
+        "other": 0,
+        "taxes": 0,
+        "personal1": 5384.96,
+        "personal2": 0
+      }
+    },
+    {
+      "month": "December 2026",
+      "monthShort": "Dec",
+      "income": {
+        "ote": 21190,
+        "endorsement": 0,
+        "additional": 0,
+        "vesperRidge": 0
+      },
+      "expenses": {
+        "reimbursement": 0,
+        "loanRepayment": 111,
+        "creditCard": 5022.77,
+        "other": 74691.93,
+        "taxes": 0,
+        "personal1": 1291.17,
+        "personal2": 110.45
+      }
+    },
+    {
+      "month": "November 2025",
+      "monthShort": "Nov",
+      "income": {
+        "ote": 20965,
+        "endorsement": 0,
+        "additional": 0,
+        "vesperRidge": 0
+      },
+      "expenses": {
+        "reimbursement": 0,
+        "loanRepayment": 0,
+        "creditCard": 2252.58,
+        "other": 1211,
+        "taxes": 0,
+        "personal1": 639.99,
+        "personal2": 110.45
+      }
+    },
+    {
+      "month": "October 2025",
+      "monthShort": "Oct",
+      "income": {
+        "ote": 21455,
+        "endorsement": 0,
+        "additional": 0,
+        "vesperRidge": 0
+      },
+      "expenses": {
+        "reimbursement": 0,
+        "loanRepayment": 0,
+        "creditCard": 7434.22,
+        "other": 573,
+        "taxes": 0,
+        "personal1": 668.44,
+        "personal2": 110.44
+      }
+    },
+    {
+      "month": "September 2025",
+      "monthShort": "Sep",
+      "income": {
+        "ote": 19960,
+        "endorsement": 0,
+        "additional": 0,
+        "vesperRidge": 0
+      },
+      "expenses": {
+        "reimbursement": 0,
+        "loanRepayment": 0,
+        "creditCard": 7398.29,
+        "other": 0,
+        "taxes": 0,
+        "personal1": 6225.05,
+        "personal2": 0
+      }
+    }
+  ],
+  "balance": [
+    {
+      "month": "Sep",
+      "rothIra": 6521.82,
+      "primaryLlc": 2415.54,
+      "llcTaxReserve": 0,
+      "investments": 1215011.47
+    },
+    {
+      "month": "Oct",
+      "rothIra": 6414.85,
+      "primaryLlc": 7865.84,
+      "llcTaxReserve": 0,
+      "investments": 1297843.07
+    },
+    {
+      "month": "Nov",
+      "rothIra": 6414.85,
+      "primaryLlc": 19788.93,
+      "llcTaxReserve": 0,
+      "investments": 1297843.07
+    },
+    {
+      "month": "Dec",
+      "rothIra": 6024.48,
+      "primaryLlc": 9429.82,
+      "llcTaxReserve": 0,
+      "investments": 0
+    },
+    {
+      "month": "Jan",
+      "rothIra": 6005.03,
+      "primaryLlc": 16941.2,
+      "llcTaxReserve": 0,
+      "investments": 1172828.01
+    },
+    {
+      "month": "Feb",
+      "rothIra": 5284.16,
+      "primaryLlc": 10124.53,
+      "llcTaxReserve": 0,
+      "investments": 1233509.35
+    }
+  ],
+  "lastImport": "Mar 4 at 7:35 PM"
+}
