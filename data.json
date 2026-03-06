@@ -39,7 +39,7 @@
       }
     },
     {
-      "month": "December 2026",
+      "month": "December 2025",
       "monthShort": "Dec",
       "income": {
         "ote": 21190,
@@ -159,5 +159,5 @@
       "investments": 1233509.35
     }
   ],
-  "lastImport": "Mar 5 at 4:17 PM"
+  "lastImport": "Mar 6 at 10:55 AM"
 }
