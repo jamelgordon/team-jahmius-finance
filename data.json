@@ -1,6 +1,25 @@
 {
   "monthly": [
     {
+      "month": "March 2026",
+      "monthShort": "Mar",
+      "income": {
+        "ote": 28689,
+        "endorsement": 0,
+        "additional": 1351,
+        "vesperRidge": 0
+      },
+      "expenses": {
+        "reimbursement": 0,
+        "loanRepayment": 327.08,
+        "creditCard": 2842.02,
+        "other": 0,
+        "taxes": 0,
+        "personal1": 637.81,
+        "personal2": 716.54
+      }
+    },
+    {
       "month": "February 2026",
       "monthShort": "Feb",
       "income": {
@@ -94,35 +113,9 @@
         "personal1": 668.44,
         "personal2": 110.45
       }
-    },
-    {
-      "month": "September 2025",
-      "monthShort": "Sep",
-      "income": {
-        "ote": 19960,
-        "endorsement": 0,
-        "additional": 0,
-        "vesperRidge": 0
-      },
-      "expenses": {
-        "reimbursement": 0,
-        "loanRepayment": 0,
-        "creditCard": 3304.76,
-        "other": 0,
-        "taxes": 0,
-        "personal1": 6225.05,
-        "personal2": 128
-      }
     }
   ],
   "balance": [
-    {
-      "month": "Sep",
-      "rothIra": 6521.82,
-      "primaryLlc": 2415.54,
-      "llcTaxReserve": 0,
-      "investments": 1215011.47
-    },
     {
       "month": "Oct",
       "rothIra": 6414.85,
@@ -159,5 +152,5 @@
       "investments": 1233509.35
     }
   ],
-  "lastImport": "Mar 6 at 10:55 AM"
+  "lastImport": "Apr 2 at 4:02 PM"
 }
