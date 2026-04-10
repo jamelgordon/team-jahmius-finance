@@ -12,10 +12,10 @@
       "expenses": {
         "reimbursement": 0,
         "loanRepayment": 327.08,
-        "creditCard": 716.54,
+        "creditCard": 3558.56,
         "other": 0,
         "taxes": 0,
-        "personal1": 0,
+        "personal1": 402.86,
         "personal2": 234.95
       }
     },
@@ -31,10 +31,10 @@
       "expenses": {
         "reimbursement": 0,
         "loanRepayment": 375.19,
-        "creditCard": 2715.89,
+        "creditCard": 8348.21,
         "other": 0,
         "taxes": 0,
-        "personal1": 0,
+        "personal1": 860.8,
         "personal2": 105.6
       }
     },
@@ -50,10 +50,10 @@
       "expenses": {
         "reimbursement": 0,
         "loanRepayment": 0,
-        "creditCard": 5384.96,
+        "creditCard": 15222.07,
         "other": 0,
         "taxes": 0,
-        "personal1": 0,
+        "personal1": 888.83,
         "personal2": 7152.2
       }
     },
@@ -69,10 +69,10 @@
       "expenses": {
         "reimbursement": 0,
         "loanRepayment": 0,
-        "creditCard": 1291.37,
+        "creditCard": 8457.51,
         "other": 0,
         "taxes": 0,
-        "personal1": 0,
+        "personal1": 813.22,
         "personal2": 221.9
       }
     },
@@ -88,11 +88,11 @@
       "expenses": {
         "reimbursement": 0,
         "loanRepayment": 0,
-        "creditCard": 639.99,
+        "creditCard": 7014.849999999999,
         "other": 0,
         "taxes": 0,
-        "personal1": 0,
-        "personal2": 110.45
+        "personal1": 877.72,
+        "personal2": 10110.45
       }
     },
     {
@@ -107,10 +107,10 @@
       "expenses": {
         "reimbursement": 0,
         "loanRepayment": 0,
-        "creditCard": 668.44,
+        "creditCard": 7025.57,
         "other": 0,
         "taxes": 0,
-        "personal1": 0,
+        "personal1": 966.64,
         "personal2": 110.45
       }
     }
@@ -159,5 +159,5 @@
       "investments": 1233509.35
     }
   ],
-  "lastImport": "Apr 10 at 8:55 AM"
+  "lastImport": "Apr 10 at 9:49 AM"
 }
