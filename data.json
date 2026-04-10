@@ -6,17 +6,17 @@
       "income": {
         "ote": 28689,
         "endorsement": 0,
-        "additional": 1351,
+        "additional": 111,
         "vesperRidge": 0
       },
       "expenses": {
         "reimbursement": 0,
         "loanRepayment": 327.08,
-        "creditCard": 2842.02,
+        "creditCard": 716.54,
         "other": 0,
         "taxes": 0,
-        "personal1": 637.81,
-        "personal2": 716.54
+        "personal1": 0,
+        "personal2": 234.95
       }
     },
     {
@@ -31,10 +31,10 @@
       "expenses": {
         "reimbursement": 0,
         "loanRepayment": 375.19,
-        "creditCard": 5632.32,
+        "creditCard": 2715.89,
         "other": 0,
         "taxes": 0,
-        "personal1": 2715.89,
+        "personal1": 0,
         "personal2": 105.6
       }
     },
@@ -50,10 +50,10 @@
       "expenses": {
         "reimbursement": 0,
         "loanRepayment": 0,
-        "creditCard": 9837.11,
+        "creditCard": 5384.96,
         "other": 0,
         "taxes": 0,
-        "personal1": 5384.96,
+        "personal1": 0,
         "personal2": 7152.2
       }
     },
@@ -69,10 +69,10 @@
       "expenses": {
         "reimbursement": 0,
         "loanRepayment": 0,
-        "creditCard": 7166.14,
+        "creditCard": 1291.37,
         "other": 0,
         "taxes": 0,
-        "personal1": 1291.37,
+        "personal1": 0,
         "personal2": 221.9
       }
     },
@@ -88,10 +88,10 @@
       "expenses": {
         "reimbursement": 0,
         "loanRepayment": 0,
-        "creditCard": 6374.86,
+        "creditCard": 639.99,
         "other": 0,
         "taxes": 0,
-        "personal1": 639.99,
+        "personal1": 0,
         "personal2": 110.45
       }
     },
@@ -107,15 +107,22 @@
       "expenses": {
         "reimbursement": 0,
         "loanRepayment": 0,
-        "creditCard": 6357.13,
+        "creditCard": 668.44,
         "other": 0,
         "taxes": 0,
-        "personal1": 668.44,
+        "personal1": 0,
         "personal2": 110.45
       }
     }
   ],
   "balance": [
+    {
+      "month": "Sep",
+      "rothIra": 6521.82,
+      "primaryLlc": 2415.54,
+      "llcTaxReserve": 0,
+      "investments": 1215011.47
+    },
     {
       "month": "Oct",
       "rothIra": 6414.85,
@@ -152,5 +159,5 @@
       "investments": 1233509.35
     }
   ],
-  "lastImport": "Apr 2 at 4:02 PM"
+  "lastImport": "Apr 10 at 8:55 AM"
 }
